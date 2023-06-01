@@ -24,9 +24,10 @@ Calculate frequency of occurrence.
 Print the characters and its huffmancode.
 
 ## Program:
-Developed by : Shafeeq Ahamed. S
+Developed by : **Shafeeq Ahamed. S**
 </br>
-Register No. : 212221230092 
+
+Register No. : **212221230092** 
 
 # Get the input String
 ```py
@@ -82,6 +83,7 @@ for (char, frequency) in freq:
 ```
 
 ## Output:
+![image](https://github.com/ShafeeqAhamedS/DIP_Exp_12_Huffman-Coding/assets/93427237/09435767-9d54-4332-af5a-36a9cd0d820c)
 
 ## Result:
 Thus the huffman coding was implemented to compress the data using python programming.
