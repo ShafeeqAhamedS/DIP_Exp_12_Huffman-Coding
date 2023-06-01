@@ -26,10 +26,9 @@ Print the characters and its huffmancode.
 ## Program:
 Developed by : **Shafeeq Ahamed. S**
 </br>
-
 Register No. : **212221230092** 
 
-# Get the input String
+### Get the input String
 ```py
 string = "21221230092 Shafeeq Ahamed"
 ```
